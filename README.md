@@ -26,6 +26,9 @@ we also got the summary for both months.
   
 
 ## print out
+<img width="201" alt="image" src="https://user-images.githubusercontent.com/85265816/129481272-3023944d-0930-4c26-9142-b3dfe60ac493.png">
+
+<img width="218" alt="image" src="https://user-images.githubusercontent.com/85265816/129481269-acd46a5b-3bb3-4c43-927e-0b17624479d6.png">
 
 
 
